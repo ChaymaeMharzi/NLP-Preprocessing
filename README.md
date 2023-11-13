@@ -1,4 +1,5 @@
-## NLP-Preprocessing-TP1:
+# NLP-Preprocessing: 
+## TP1:
 ### L'objectif consiste à nettoyer et préparer des données textuelles pour l'analyse en effectuant les étapes suivantes :
 
 1. Élimination de la ponctuation.
