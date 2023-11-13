@@ -1,5 +1,5 @@
-# NLP-Preprocessing-TP1:
-## L'objectif consiste à nettoyer et préparer des données textuelles pour l'analyse en effectuant les étapes suivantes :
+## NLP-Preprocessing-TP1:
+### L'objectif consiste à nettoyer et préparer des données textuelles pour l'analyse en effectuant les étapes suivantes :
 
 1. Élimination de la ponctuation.
 2. Tokenization (découpage du texte en mots).
@@ -11,8 +11,8 @@
 ### Les résultats de chaque étape sont stockés dans un tableau pour une analyse ultérieure, facilitant la comparaison du texte original avec le texte nettoyé ( Clean-text). 
 
 
-# TP2 : La vectorisation | word Embedding | Word2Vec:
-## On va Essayez d'entraîner le modèle sur ce texte afin de :
+## TP2 : La vectorisation | word Embedding | Word2Vec:
+### On va Essayez d'entraîner le modèle sur ce texte afin de :
 
 1- Extraire la représentation vectorielle d'un mot 
 2- Calculer la similarité entre deux mots 
